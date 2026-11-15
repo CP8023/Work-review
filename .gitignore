@@ -1,0 +1,8 @@
+# 打包产物（由 打包部署.bat 重新生成）
+dist/
+deploy.zip
+
+# 本地临时文件
+*.log
+.DS_Store
+Thumbs.db
